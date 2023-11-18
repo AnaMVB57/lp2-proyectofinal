@@ -1,0 +1,16 @@
+.contenedor-usuario{
+display: flex;
+flex-direction: column;
+row-gap: 1rem;
+border: 4px solid red;
+padding: 1rem;
+border-radius: 1rem;
+justify-content: center;
+
+}
+
+.contenedor-usuario img{
+
+    border-radius: 10rem;
+    border: 2px solid blue;
+}
